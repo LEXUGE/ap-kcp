@@ -26,6 +26,7 @@
 
             binutils-unwrapped
             cargo-cache
+            cargo-edit
           ];
         };
     });
